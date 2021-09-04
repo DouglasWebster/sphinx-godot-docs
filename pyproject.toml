@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "sphinx_godot_docs"
+name = "sphinx-godot-docs"
 version = "0.1.0"
 description = "Document Godot Script files in sphix format"
 authors = ["Douglas Webster <douglas.webster2107@gmail.com>"]
